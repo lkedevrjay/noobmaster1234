@@ -1,3 +1,5 @@
 <?php
 
-echo 'hello world 3';
+echo 'hello world of warcraft 3';
+
+echo "for the horde!";
